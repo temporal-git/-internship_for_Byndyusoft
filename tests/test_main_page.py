@@ -23,4 +23,3 @@ class TestMainPage:
         page.open()
         page.find_order_button()
         page.get_tg_link()
-
