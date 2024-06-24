@@ -43,11 +43,10 @@ class CalculatorTest(TaskSet):
 #### Анализ результатов
 Так как у нас лишь пример URL сайта ожидаемо, что фактический результат будет отличаться, у нас будут только ошибки и слишком больше время отклика.
 ##### В веб-интерфейсе можно наблюдать следующие показатели:
-•	Среднее время отклика (Average response time)
-•	95-й перцентиль времени отклика (95th percentile response time)
-•	Максимальное время отклика (Maximum response time)
-•	Процент успешных запросов (Percentage of successful requests)
-•	Ошибки (Errors)
+1.	Среднее время отклика (Average response time)
+2.  Максимальное время отклика (Maximum response time)
+3.  Процент успешных запросов (Percentage of successful requests)
+4.  Ошибки (Errors)
 
 Подробнее можно посмотреть в папке __/performance_tests/reports/__
 
