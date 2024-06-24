@@ -11,10 +11,12 @@ __/test_scenarios_calc/test_web_calc.xlsx__
 ## 2. Скрипт автоматизации на cypress
 __/cypress_files/cypress/e2e/test_tg_link.cy.js__ 
 
-## 3. Скрипт автоматизации на pyton + selenium
+## 3. Скрипт автоматизации на python + selenium
 __/test/test_main_page.py__
 
-..и всё остальное.
+## 4. Скрипт нагрузочного тестирования на python + locust. Файл с описанием
+__/performance_tests/readme_load_testing.md__
+__/performance_tests/test_load.py__
 
 
 __How to work with this repository:__
